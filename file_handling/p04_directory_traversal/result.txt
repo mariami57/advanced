@@ -1,0 +1,8 @@
+.html
+- - - index.html
+.js
+- - - some_js.js
+.py
+- - - python.py
+.txt
+- - - some_text.txt
